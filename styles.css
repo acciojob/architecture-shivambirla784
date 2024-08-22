@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body {
+    width: 1100px;
+}
+
+table,
+tbody,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    table-layout: fixed;
+    text-align: center;
+
+}
+
+.imageContainer {
+    width: 200px;
+}
